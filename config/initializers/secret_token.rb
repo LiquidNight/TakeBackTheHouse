@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Dems2014::Application.config.secret_key_base = '8e2eef1824ca2d8e26ea7387d8beb0be57f45e889791ea1b239271f56bdfa5ff2de19a8c0acbddd23bf743eafa104b9fa5c70afd48c794577351bd2938068928'
+TakeBackTheHouse::Application.config.secret_key_base = '0b26984bd8813eaa285d420920ac42343eb93713f294904fbb1fc4bfa7c3b6e39431ef2d11ffa0c4fb8da1815b4287c3a2ad54fe9cb650a3e9462ef464865ca0'

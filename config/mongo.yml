@@ -9,16 +9,16 @@ defaults: &defaults
 
 development:
   <<: *defaults
-  database: dems2014_development
+  database: take_back_the_house_development
 
 test:
   <<: *defaults
-  database: dems2014_test
+  database: take_back_the_house_test
   w: 0
 
 # set these environment variables on your prod server
 production:
   <<: *defaults
-  database: dems2014
+  database: take_back_the_house
   username: <%= ENV['MONGO_USERNAME'] %>
   password: <%= ENV['MONGO_PASSWORD'] %>

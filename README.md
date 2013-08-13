@@ -14,3 +14,4 @@ The events will focus on:
 * school shootings or mass shootings by individuals who had access to military grade assault guns with high capacity magazines and in which the individuals where able to legally purchase such weapons with lax or no background check.
 * districts with high rates of home foreclosures that have still not had proper relief despite attempts at government intervention
 
+Pivital Tracker Link: https://www.pivotaltracker.com/s/projects/890404
